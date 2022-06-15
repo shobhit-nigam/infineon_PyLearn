@@ -1,0 +1,36 @@
+author = Gambardella, Matthew
+title = XML Developer's Guide
+----------
+author = Ralls, Kim
+title = Midnight Rain
+----------
+author = Corets, Eva
+title = Maeve Ascendant
+----------
+author = Corets, Eva
+title = Oberon's Legacy
+----------
+author = Corets, Eva
+title = The Sundered Grail
+----------
+author = Randall, Cynthia
+title = Lover Birds
+----------
+author = Thurman, Paula
+title = Splish Splash
+----------
+author = Knorr, Stefan
+title = Creepy Crawlies
+----------
+author = Kress, Peter
+title = Paradox Lost
+----------
+author = O'Brien, Tim
+title = Microsoft .NET: The Programming Bible
+----------
+author = O'Brien, Tim
+title = MSXML3: A Comprehensive Guide
+----------
+author = Galos, Mike
+title = Visual Studio 7: A Comprehensive Guide
+----------
